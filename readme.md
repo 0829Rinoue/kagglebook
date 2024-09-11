@@ -1,3 +1,6 @@
+## 0829RInoue追記
+企業利用はanaconda使用禁止
+
 ## サンプルコード
 
 「Kaggleで勝つデータ分析の技術」([amazon](https://www.amazon.co.jp/dp/4297108437)) のサンプルコードです。
